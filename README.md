@@ -24,7 +24,7 @@ Visuals: (Use Measures)
 - Total Pledged Card
 - Total Goal Card
 
-- # Projects by Status (Execlude numeric statuses)
-- # Projects by Category Hierarchy (Drill Down)
-- # Projects by launched
+- Number of Projects by Status (Execlude numeric statuses)
+- Number of Projects by Category Hierarchy (Drill Down)
+- Number of Projects by launched
 - Total Pledged by currency
