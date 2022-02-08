@@ -28,3 +28,6 @@ remove or hide other table/tables based on the steps. "we can do this by modelin
 - Number of Projects by Category Hierarchy (Drill Down)
 - Number of Projects by launched
 - Total Pledged by currency
+
+# youtub link:
+https://www.youtube.com/watch?v=XM0NWYATRYg
